@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Credencials
-.env
 .node_modules
